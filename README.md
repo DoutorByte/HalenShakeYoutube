@@ -5,7 +5,7 @@ Harlem Shake on Youtube Navigation Interface
 Around 2013 a Trend had a huge success and went viral. With this success, even the Youtube team created its version of Trend in the navigation interface on the portal.
 
 
-#Instructions
+# Instructions
 
 1- Open the Youtube website.
 
@@ -16,5 +16,7 @@ Around 2013 a Trend had a huge success and went viral. With this success, even t
 4- Copy and Paste the code into the code.js file in the console and press ENTER
 
 The effect ends as soon as the music ends
+
 This is a simulation the original effect is no longer available on youtube
+
 you can test on other pages.. It might work too
